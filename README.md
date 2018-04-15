@@ -25,6 +25,7 @@ https://blog.egorand.me/
 
 http://blog.israelferrer.com/
 
+https://www.thedroidsonroids.com/blog/design-patterns-android-observer-2
 
 
 
