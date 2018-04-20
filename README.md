@@ -27,6 +27,8 @@ http://blog.israelferrer.com/
 
 https://www.thedroidsonroids.com/blog/design-patterns-android-observer-2
 
+https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/
+
 
 
 
