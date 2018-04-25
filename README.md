@@ -31,6 +31,6 @@ https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/
 
 https://github.com/MindorksOpenSource/android-interview-questions
 
-
+https://softwareengineering.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name
 
 
