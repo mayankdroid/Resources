@@ -33,4 +33,6 @@ https://github.com/MindorksOpenSource/android-interview-questions
 
 https://softwareengineering.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name
 
+https://android.jlelse.eu/why-and-how-i-switched-to-kotlin-503460bbfcf
+
 
