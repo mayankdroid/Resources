@@ -35,5 +35,6 @@ https://softwareengineering.stackexchange.com/questions/155639/which-algorithms-
 
 https://android.jlelse.eu/why-and-how-i-switched-to-kotlin-503460bbfcf
 https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
+https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b
 
 
